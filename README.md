@@ -3,10 +3,10 @@
 Ce système utilise la technologie **RAG** (Retrieval-Augmented Generation) pour répondre à des questions techniques en se basant exclusivement sur vos propres documents PDF.
 
 ## 🌟 Fonctionnalités
-- **Lecture de PDF** : Charge et analyse automatiquement tous les PDF dans le dossier `data/`.
-- **Réponses Précises** : Utilise l'IA de **Groq** (Llama 3.3) pour générer des réponses basées sur le contexte.
-- **Citations des Sources** : Indique toujours de quel document provient l'information.
-- **Interface Web** : Une interface simple et interactive construite avec **Streamlit**.
+- **Base de données ChromaDB** : Utilisation d'une base vectorielle performante et persistante.
+- **Prompting Avancé** : Un assistant expert et pédagogique avec des consignes strictes.
+- **Interface Streamlit Premium** : UI moderne avec historique de chat et tags de sources.
+- **Citations Précises** : Affiche systématiquement le document et la page source.
 
 ---
 
